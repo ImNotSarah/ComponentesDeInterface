@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AulaComponentesInterface</string>
     <string name="botao_jogar">Play</string>
+
 </resources>
