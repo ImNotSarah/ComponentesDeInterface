@@ -26,7 +26,9 @@
         android:padding="16dp"
         android:text="TextView"
         app:layout_constraintStart_toEndOf="@+id/textView2"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Sarah"
+        />
 
     <Button
         android:id="@+id/button2"
@@ -35,4 +37,10 @@
         android:text="Button"
         tools:layout_editor_absoluteX="160dp"
         tools:layout_editor_absoluteY="129dp" />
+
+    <receita>
+        <ingrediente item="farinha" quantidade="2 xicaras"/>
+        <ingrediente item="açucar" quantidade="1 xicaras"/>
+        <ingrediente item="ovo" quantidade="2"/>
+    </receita>
 </androidx.constraintlayout.widget.ConstraintLayout>
