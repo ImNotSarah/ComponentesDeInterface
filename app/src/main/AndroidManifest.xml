@@ -13,13 +13,16 @@
         android:theme="@style/Theme.AulaComponentesInterface"
         tools:targetApi="31">
         <activity
+            android:name=".ScrollActivity2"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".SegundaActivity"
             android:exported="false" />
         <activity
-            android:name=".ScrollActivity2"
+            android:name=".CaixaActivity"
             android:exported="true"
             android:screenOrientation="sensor">
             <intent-filter>
