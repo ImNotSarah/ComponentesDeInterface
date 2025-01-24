@@ -3,7 +3,14 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-<!--    Cores customizadas-->
+    <!-- Cores customizadas-->
     <color name="texto_botao">#EFECBF</color>
 
+    <!-- Cores customizadas para o tema-->
+    <color name="primaria">#E91E63</color>
+    <color name="primaria_variacao">#673AB7</color>
+    <color name="texto_primaria">#F6DF06</color>
+
+
+    <color name="secundaria">#8BC34A</color>
 </resources>
