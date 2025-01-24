@@ -2,6 +2,9 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.AulaComponentesInterface" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/primaria_escuro</item>
+        <item name="colorSecondary">@color/secundaria_escuro</item>
+        <item name="colorPrimaryContainer">@color/secundaria_escuro</item>
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>
 </resources>

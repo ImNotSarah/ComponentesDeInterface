@@ -4,9 +4,21 @@
         <!-- Customize your light theme here. -->
         <item name="colorPrimary">@color/primaria</item>
         <item name="colorPrimaryVariant">@color/primaria_variacao</item>
-        <item name="colorOnPrimary">@color/texto_primaria</item>
+        <item name="colorOnPrimary">@color/item_primaria</item>
 
 
+
+        <!-- Cores secundárias -->
+        <item name="colorSecondary">@color/secundaria</item>
+        <item name="colorPrimaryContainer">@color/secundaria</item> <!-- Altera a cor do floatingActionButton -->
+        <item name="colorOnSecondary">@color/item_secundaria</item>
+
+
+        <!-- Cor da barra e status -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!-- Customizações do sistema -->
+        <item name="android:windowBackground">@color/fundo</item>
 
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
